@@ -1,5 +1,5 @@
 {
-  "name": "zabanaa.github.io",
+  "name": "www.liangboyuan.pub",
   "version": "1.0.0",
   "description": "",
   "main": "gulpfile.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Zabanaa/zabanaa.github.io.git"
+    "url": "git+https://github.com/BranLiang/branliang.github.io.git"
   },
   "keywords": [],
-  "author": "Karim Cheurfi <karim.cheurfi@gmail.com> (Zabana)",
+  "author": "Bran Liang <lby89757@hotmail.com> (Bran)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Zabanaa/zabanaa.github.io/issues"
+    "url": "https://github.com/BranLiang/branliang.github.io/issues"
   },
-  "homepage": "https://github.com/Zabanaa/zabanaa.github.io#readme",
+  "homepage": "https://www.liangboyuan.pub",
   "devDependencies": {
     "browser-sync": "^2.18.5",
     "gulp": "^3.9.1",
