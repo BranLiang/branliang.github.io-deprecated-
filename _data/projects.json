@@ -3,33 +3,39 @@
     "projects": [
 
         {
-            "url": "https://www.npmjs.com/package/nuddles",
-            "name": "Nuddles",
-            "desc": "Node.js wrapper for the Foursquare API"
+            "url": "http://aihehuo.com/",
+            "name": "Aihehuo News feed(Coming soon)",
+            "desc": "Newly designed backend using node.js and graphql."
         },
 
         {
-            "url": "https://github.com/Zabanaa/jabbbar",
-            "name": "Jabbbar",
-            "desc": "Python 3 wrapper for the Dribbble API"
+            "url": "http://www.idnld.net/",
+            "name": "Dangnian eshop(当年粮店微信商城)",
+            "desc": "React client + Antd CMS + Ruby on Rails ecommerce backend."
         },
 
         {
-            "url": "https://wintermute.design/",
-            "name": "Wintermute",
-            "desc": "A RESTful API for browsing Cyberpunk Authors/Novels/Characters"
+            "url": "http://aihehuo.com/",
+            "name": "Aihehuo backend api",
+            "desc": "A RESTful api build with Ruby on Rails and Grape."
         },
 
         {
-            "url": "#",
-            "name": "ConsoleCowboys",
-            "desc": "Cyberspace's Best Job Board (Coming Real Soon)"
+            "url": "https://github.com/BranLiang/zhima_auth",
+            "name": "Zhima Auth(芝麻认证)",
+            "desc": "A ruby gem package making the use of Zhima auth api easier then ever."
         },
 
         {
-            "url": "https://github.com/Zabanaa/night-city",
-            "name": "Night-City",
-            "desc": "The Ansible playbook I made to provision my development boxes"
+            "url": "https://github.com/BranLiang/project_surveyor",
+            "name": "Surveyor",
+            "desc": "Build survey forms easily with multiple question types."
+        },
+
+        {
+            "url": "https://github.com/BranLiang/project_danebook",
+            "name": "Danebook",
+            "desc": "Full functional social site with facebook like style."
         },
 
         {
