@@ -1,10 +1,21 @@
 {
 
     "projects": [
+        {
+            "url": "https://chicary-crm.aihehuo.com/",
+            "name": "Chicary时髦星(Coming soon)",
+            "desc": "Full functional fashion eshop which is able for both renting and purchasing. RESTful Rails backend."
+        },
+
+        {
+            "url": "http://www.idnld.net/",
+            "name": "当年粮店微信商城V2",
+            "desc": "Fully redesigned web pages using new state management tool dva."
+        },
 
         {
             "url": "http://aihehuo.com/",
-            "name": "Aihehuo News feed(Coming soon)",
+            "name": "Aihehuo News feed",
             "desc": "Newly designed backend using node.js and graphql."
         },
 
@@ -17,7 +28,7 @@
         {
             "url": "http://aihehuo.com/",
             "name": "Aihehuo backend api",
-            "desc": "A RESTful api build with Ruby on Rails and Grape."
+            "desc": "Main developer - A RESTful api build with Ruby on Rails and Grape."
         },
 
         {
@@ -30,12 +41,6 @@
             "url": "https://github.com/BranLiang/project_surveyor",
             "name": "Surveyor",
             "desc": "Build survey forms easily with multiple question types."
-        },
-
-        {
-            "url": "https://github.com/BranLiang/project_danebook",
-            "name": "Danebook",
-            "desc": "Full functional social site with facebook like style."
         },
 
         {
